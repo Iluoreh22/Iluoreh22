@@ -2,7 +2,7 @@
 - 👀 I’m interested in molecular biology, genomics, and bioinformatics.
 - 🌱 I’m currently learning scRNA-seq data analysis.
 - 💞️ I’m looking to collaborate on bioinformatic pipelines and computational biology.
-- 📫 How to reach me. Reach me via my email muhammadahmedilu@gmail.com
+- 📫 Reach me via my email muhammadahmedilu@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love helping people
 
