@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iluoreh22
 - 👀 I’m interested in molecular biology, genomics, and bioinformatics.
-- 🌱 I’m currently learning scRNA-seq data analysis.
+- 🌱 I’m currently using scRNA-seq data to investigate the transcriptome and epigenetic landscape of human German fibroblasts.
 - 💞️ I’m looking to collaborate on bioinformatic pipelines and computational biology.
 - 📫 Reach me via my email muhammadahmedilu@gmail.com
 - 😄 Pronouns: He/Him
